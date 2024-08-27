@@ -1,0 +1,205 @@
+{
+    "courses" : [
+        {
+            "id": 1,
+            "title": "Introduction to Python",
+            "slug": "introduction-to-python",
+            "description": "Learn the basics of Python programming, including syntax, variables, and functions.",
+            "price": 49.99,
+            "instructor": "John Doe",
+            "isFeature": true,
+            "image": "https://example.com/images/python-course.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Advanced JavaScript",
+            "slug": "advanced-javascript",
+            "description": "A deep dive into JavaScript, covering advanced topics like closures, prototypes, and asynchronous programming.",
+            "price": 79.99,
+            "instructor": "Jane Smith",
+            "isFeature": false,
+            "image": "https://example.com/images/javascript-course.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Web Development Bootcamp",
+            "slug": "web-development-bootcamp",
+            "description": "A comprehensive course on web development, from HTML and CSS to full-stack JavaScript.",
+            "price": 199.99,
+            "instructor": "Emily Johnson",
+            "isFeature": true,
+            "image": "https://example.com/images/web-development-bootcamp.jpg"
+        },
+        {
+            "id": 4,
+            "title": "Data Science with R",
+            "slug": "data-science-with-r",
+            "description": "Learn data analysis and visualization using R, including data manipulation and statistical modeling.",
+            "price": 89.99,
+            "instructor": "Michael Brown",
+            "isFeature": false,
+            "image": "https://example.com/images/data-science-r-course.jpg"
+        },
+        {
+            "id": 5,
+            "title": "Machine Learning A-Z",
+            "slug": "machine-learning-a-z",
+            "description": "Master machine learning concepts and techniques, from supervised learning to deep learning.",
+            "price": 149.99,
+            "instructor": "Alice Davis",
+            "isFeature": true,
+            "image": "https://example.com/images/machine-learning-course.jpg"
+        },
+        {
+            "id": 6,
+            "title": "Graphic Design for Beginners",
+            "slug": "graphic-design-for-beginners",
+            "description": "Get started with graphic design, covering the basics of typography, color theory, and Adobe tools.",
+            "price": 39.99,
+            "instructor": "Sarah Lee",
+            "isFeature": false,
+            "image": "https://example.com/images/graphic-design-course.jpg"
+        },
+        {
+            "id": 7,
+            "title": "Digital Marketing Mastery",
+            "slug": "digital-marketing-mastery",
+            "description": "Learn the art and science of digital marketing, including SEO, social media, and email marketing.",
+            "price": 119.99,
+            "instructor": "David Wilson",
+            "isFeature": true,
+            "image": "https://example.com/images/digital-marketing-course.jpg"
+        },
+        {
+            "id": 8,
+            "title": "Photography Essentials",
+            "slug": "photography-essentials",
+            "description": "Understand the fundamentals of photography, from camera settings to composition and lighting.",
+            "price": 59.99,
+            "instructor": "Laura Martinez",
+            "isFeature": false,
+            "image": "https://example.com/images/photography-course.jpg"
+        },
+        {
+            "id": 9,
+            "title": "Blockchain for Beginners",
+            "slug": "blockchain-for-beginners",
+            "description": "An introduction to blockchain technology, its applications, and its potential impact on various industries.",
+            "price": 69.99,
+            "instructor": "Robert Taylor",
+            "isFeature": true,
+            "image": "https://example.com/images/blockchain-course.jpg"
+        },
+        {
+            "id": 10,
+            "title": "Cybersecurity Fundamentals",
+            "slug": "cybersecurity-fundamentals",
+            "description": "Learn the basics of cybersecurity, including threat analysis, network security, and ethical hacking.",
+            "price": 99.99,
+            "instructor": "Jessica Moore",
+            "isFeature": false,
+            "image": "https://example.com/images/cybersecurity-course.jpg"
+        },
+        {
+            "id": 11,
+            "title": "Introduction to AI",
+            "slug": "introduction-to-ai",
+            "description": "Discover the basics of artificial intelligence, including neural networks, natural language processing, and more.",
+            "price": 109.99,
+            "instructor": "Kevin Anderson",
+            "isFeature": true,
+            "image": "https://example.com/images/ai-course.jpg"
+        },
+        {
+            "id": 12,
+            "title": "Project Management Professional (PMP) Prep",
+            "slug": "pmp-prep",
+            "description": "Prepare for the PMP certification with this comprehensive course covering all PMBOK Guide knowledge areas.",
+            "price": 149.99,
+            "instructor": "Megan Thompson",
+            "isFeature": false,
+            "image": "https://example.com/images/pmp-course.jpg"
+        },
+        {
+            "id": 13,
+            "title": "Ethical Hacking",
+            "slug": "ethical-hacking",
+            "description": "Learn how to ethically hack systems and protect them from malicious attacks using industry-standard tools.",
+            "price": 129.99,
+            "instructor": "Paul White",
+            "isFeature": true,
+            "image": "https://example.com/images/ethical-hacking-course.jpg"
+        },
+        {
+            "id": 14,
+            "title": "Financial Analysis with Excel",
+            "slug": "financial-analysis-excel",
+            "description": "Master financial analysis using Excel, covering financial modeling, forecasting, and data visualization.",
+            "price": 89.99,
+            "instructor": "Rachel King",
+            "isFeature": false,
+            "image": "https://example.com/images/financial-analysis-course.jpg"
+        },
+        {
+            "id": 15,
+            "title": "Creative Writing Workshop",
+            "slug": "creative-writing-workshop",
+            "description": "Enhance your creative writing skills with practical exercises and feedback from experienced writers.",
+            "price": 69.99,
+            "instructor": "William Clark",
+            "isFeature": true,
+            "image": "https://example.com/images/creative-writing-course.jpg"
+        },
+        {
+            "id": 16,
+            "title": "Mobile App Development with React Native",
+            "slug": "mobile-app-development-react-native",
+            "description": "Build cross-platform mobile apps using React Native, from setup to deployment.",
+            "price": 139.99,
+            "instructor": "Sophia Wright",
+            "isFeature": false,
+            "image": "https://example.com/images/react-native-course.jpg"
+        },
+        {
+            "id": 17,
+            "title": "Public Speaking Mastery",
+            "slug": "public-speaking-mastery",
+            "description": "Become a confident public speaker with techniques for effective communication and audience engagement.",
+            "price": 59.99,
+            "instructor": "Daniel Evans",
+            "isFeature": true,
+            "image": "https://example.com/images/public-speaking-course.jpg"
+        },
+        {
+            "id": 18,
+            "title": "Introduction to SQL",
+            "slug": "introduction-to-sql",
+            "description": "Learn SQL to manage and query relational databases, covering SELECT, INSERT, UPDATE, and DELETE operations.",
+            "price": 49.99,
+            "instructor": "Olivia Harris",
+            "isFeature": false,
+            "image": "https://example.com/images/sql-course.jpg"
+        },
+        {
+            "id": 19,
+            "title": "UX/UI Design Fundamentals",
+            "slug": "ux-ui-design-fundamentals",
+            "description": "Explore the principles of UX/UI design, including user research, wireframing, and prototyping.",
+            "price": 129.99,
+            "instructor": "Charles Walker",
+            "isFeature": true,
+            "image": "https://example.com/images/ux-ui-course.jpg"
+        },
+        {
+            "id": 20,
+            "title": "Creative Problem Solving",
+            "slug": "creative-problem-solving",
+            "description": "Develop innovative solutions to complex problems with this course on creative problem-solving techniques.",
+            "price": 79.99,
+            "instructor": "Emma Lewis",
+            "isFeature": false,
+            "image": "https://example.com/images/creative-problem-solving-course.jpg"
+        }
+    ]
+    
+}
