@@ -1,0 +1,58 @@
+{
+    "Webinars": [
+        {
+            "title": "Introduction to Python",
+            "description": "Learn the basics of Python programming, including syntax, variables, and functions.",
+            "slug": "introduction-to-python",
+            "isFeatured": true
+        },
+        {
+            "title": "Web Development Bootcamp",
+            "description": "A comprehensive course on web development, from HTML and CSS to full-stack JavaScript.",
+            "slug": "web-development-bootcamp",
+            "isFeatured": true
+        },
+        {
+            "title": "Machine Learning A-Z",
+            "description": "Master machine learning concepts and techniques, from supervised learning to deep learning.",
+            "slug": "machine-learning-a-z",
+            "isFeatured": true
+        },
+        {
+            "title": "Digital Marketing Mastery",
+            "description": "Learn the art and science of digital marketing, including SEO, social media, and email marketing.",
+            "slug": "digital-marketing-mastery",
+            "isFeatured": true
+        },
+        {
+            "title": "Blockchain for Beginners",
+            "description": "An introduction to blockchain technology, its applications, and its potential impact on various industries.",
+            "slug": "blockchain-for-beginners",
+            "isFeatured": true
+        },
+        {
+            "title": "Introduction to AI",
+            "description": "Discover the basics of artificial intelligence, including neural networks, natural language processing, and more.",
+            "slug": "introduction-to-ai",
+            "isFeatured": true
+        },
+        {
+            "title": "Ethical Hacking",
+            "description": "Learn how to ethically hack systems and protect them from malicious attacks using industry-standard tools.",
+            "slug": "ethical-hacking",
+            "isFeatured": true
+        },
+        {
+            "title": "Creative Writing Workshop",
+            "description": "Enhance your creative writing skills with practical exercises and feedback from experienced writers.",
+            "slug": "creative-writing-workshop",
+            "isFeatured": true
+        },
+        {
+            "title": "Public Speaking Mastery",
+            "description": "Become a confident public speaker with techniques for effective communication and audience engagement.",
+            "slug": "public-speaking-mastery",
+            "isFeatured": true
+        }
+    ]
+}
